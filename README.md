@@ -1,8 +1,5 @@
-# Script Post Installation pour elementary OS 0.3 Freya et 0.4 Loki (beta)
-# Sistema Post Script para OS elementar 0,3 0,4 Freya e Loki (beta)
+# Post Script para OS Elementary Freya 0.3 e Loki 0.4 (beta)
 
-Ce script a pour but de rendre facile l'installation d'applications tierces juste après une installation
-d'elementary OS 0.4 Loki.
 Este script é projetado para tornar mais fácil de instalar aplicativos de terceiros apenas após a instalação
 de OS elementar 0,4 Loki.
 
