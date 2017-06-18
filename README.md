@@ -20,5 +20,5 @@ wget -O /tmp/elementary_loki-postinstall.sh https://raw.githubusercontent.com/De
 ```
 
 ## Fonte
-Script em grande parte inspirado por esta:
+Script em grande parte inspirado por este:
 https://github.com/ylrxeidx/elementary-script
